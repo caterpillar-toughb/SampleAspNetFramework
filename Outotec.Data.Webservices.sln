@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Outotec.Data.Business", "Outotec.Data.Business\Outotec.Data.Business.csproj", "{0D095B83-E9AF-4900-8E5D-A0F7FF13BFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outotec.Data.Webservice", "Outotec.Data.Webservice\Outotec.Data.Webservice.csproj", "{C21FCB21-7FBA-4824-A836-AA720E622155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D095B83-E9AF-4900-8E5D-A0F7FF13BFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D095B83-E9AF-4900-8E5D-A0F7FF13BFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D095B83-E9AF-4900-8E5D-A0F7FF13BFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D095B83-E9AF-4900-8E5D-A0F7FF13BFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21FCB21-7FBA-4824-A836-AA720E622155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21FCB21-7FBA-4824-A836-AA720E622155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21FCB21-7FBA-4824-A836-AA720E622155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21FCB21-7FBA-4824-A836-AA720E622155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D27A149-7B07-42C4-91AD-FA81AA466845}
+	EndGlobalSection
+EndGlobal
